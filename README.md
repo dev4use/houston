@@ -26,3 +26,14 @@ Furthermore, have solid basis and save and maintain this nominal version during 
 
 Concerning feature the MVP version focuses on depth  and not on width treatment. Create and maintain a robust technical and user experienced basis is the main goal of this first product version.  
 
+## Technical Informations
+
+This is embarassing. It is not possible to have no point of view. And conciliate all points of view is difficult. The main goal is to focus on business, not to waste time on technical tools and tactics.
+
+What can be say at first time in order to help you to understand how to read and to use this application repository is below.
+
+- organization :
+  - [ ] monolithic application
+  - [x] webservices
+    - [ ] multi repo : one repository by component
+    - [x] mono repo : one branch by component
